@@ -1,4 +1,5 @@
 # useful-commands
+![linux ping](https://fossbytes.com/wp-content/uploads/2022/02/Linux-distros-for-programmers.jpeg)
 
 ## Enviroment variables
 1. In terminal
